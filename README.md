@@ -2,7 +2,7 @@
 
 The datetime module in Python provides classes for manipulating dates and times. It is one of the most commonly used modules for working with time-based data. Whether you're handling timestamps, formatting dates, or performing time-based calculations, the datetime module is your go-to tool.
 
-In this tutorial, we will explore the basic usage of datetime through case studies and practical examples.
+In this tutorial, we will explore the basic usage of datetime through case studies and practical examples. You can find the full [tutorial on datetime](https://pythonid.com/tutorials/python-dates) and explore the example [case study](https://pythonid.com/user/nguyentrinh1997/projects/python-language-tutorial-datetime-module) here.
 
 ## Key Components of the datetime Module
 Before diving into the examples, let's familiarize ourselves with some essential classes and methods in the datetime module:
